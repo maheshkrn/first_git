@@ -1,3 +1,5 @@
 about projet
 about git
+about python
+about ai
 
