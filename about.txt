@@ -1,5 +1,5 @@
 about projet
 about git
-about python
-about ai
+about maven
+about tomcat
 
