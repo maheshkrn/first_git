@@ -2,4 +2,6 @@ about projet
 about git
 about maven
 about tomcat
+about python3
+about AI
 
